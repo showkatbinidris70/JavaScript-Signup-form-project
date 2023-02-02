@@ -1,0 +1,16 @@
+body{
+width: 72%;
+padding-left: 28%;
+
+}
+.container{
+    background-color: #E9ECEF;
+    border-radius: 5px;
+}
+.heading{
+    text-align: center;
+    padding-top: 2rem;
+    font-size: 40pt;
+    font-weight: bolder;
+    color: #015186;
+}
